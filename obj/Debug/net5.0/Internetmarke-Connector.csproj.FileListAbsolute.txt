@@ -1,0 +1,12 @@
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\bin\Debug\net5.0\Internetmarke-Connector.deps.json
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\bin\Debug\net5.0\Internetmarke-Connector.dll
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\bin\Debug\net5.0\ref\Internetmarke-Connector.dll
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\bin\Debug\net5.0\Internetmarke-Connector.pdb
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\obj\Debug\net5.0\Internetmarke-Connector.csproj.AssemblyReference.cache
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\obj\Debug\net5.0\Internetmarke-Connector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\obj\Debug\net5.0\Internetmarke-Connector.AssemblyInfoInputs.cache
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\obj\Debug\net5.0\Internetmarke-Connector.AssemblyInfo.cs
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\obj\Debug\net5.0\Internetmarke-Connector.csproj.CoreCompileInputs.cache
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\obj\Debug\net5.0\Internetmarke-Connector.dll
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\obj\Debug\net5.0\ref\Internetmarke-Connector.dll
+C:\Users\stins\Nextcloud\Webdesign\eBay\eBayControl\Internetmarke-Connector\obj\Debug\net5.0\Internetmarke-Connector.pdb
